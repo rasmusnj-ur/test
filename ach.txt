@@ -15,6 +15,9 @@ Barco click sucks by the way.
     - step 3: keep doing nothing
     - step 4: repeate the last three steps
     - step 5: now get some rest
+    - step 6: if nothing else can be done go to step 1
     - step 9: if tired stop doing nothing
+    - step 10: continue doing nothing
+    - step 11: take a one hour break from doing nothing
 
 
